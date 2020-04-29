@@ -1,43 +1,42 @@
 {
   "tasks": [
     {
-      "_id": "5d0cb3b061c7460012195583",
+      "_id": 0,
       "title": "Learn Webpack",
-      "isDone": "false",
-      "projectId": 1
+      "isDone": "false"
     },
     {
-      "_id": "5d0cb6a161c7460012195586",
+      "_id": 1,
       "title": "Study Discord Features",
       "isDone": "false"
     },
     {
-      "_id": "5868841a95d0e0392607884d",
+      "_id": 2,
       "title": "Integrate Webpack with devias-kit-pro",
       "isDone": "false"
     },
     {
-      "_id": "5d0cb6b861c7460012195588",
+      "_id": 3,
       "title": "Setup HackerNews",
       "isDone": "false"
     },
     {
-      "_id": "58688d1495d0e03926078852",
+      "_id": 4,
       "title": "Netlify Deploy socialape, ramentaurants",
       "isDone": "false"
     },
     {
-      "_id": "5868888f95d0e03926078850",
+      "_id": 5,
       "title": "Webpack Basic Setup",
       "isDone": "false"
     },
     {
-      "_id": "58688e0495d0e03926078855",
+      "_id": 6,
       "title": "Todoist Clone Freecodecamp (Long Term)",
       "isDone": "false"
     },
     {
-      "_id": "58688f2e95d0e0392607885b",
+      "_id": 7,
       "title": "Learn GraphQL",
       "isDone": "false"
     }
